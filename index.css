@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(to bottom, black, white);
+}
+
+a {
+   color:greenyellow;
+}
+
+h1 {
+    color:white;
+}
+p {
+    color:white;
+}
+
+li {
+    color:white;
+}
+
+h2 {
+    color:white;
+}
+
+
